@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283692136509",
+    "project_id": "sec2hand-demo",
+    "storage_bucket": "sec2hand-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283692136509:android:0bdfd9498bb85e79f5d254",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283692136509-cnaq85h2rq572p9ral5rqm8mcpo1p5to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWJx-gRm7-_QRvU-XvluvvyeM9yvEGC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283692136509-cnaq85h2rq572p9ral5rqm8mcpo1p5to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
